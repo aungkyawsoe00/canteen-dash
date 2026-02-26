@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "canteen-dash",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "pubspec.yaml",
+      "**/*.dart",
+      "run_server.bat",
+      "server.js",
+      "REACT_SETUP.md",
+      "README.md"
+    ]
+  }
+}
